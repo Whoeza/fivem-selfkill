@@ -7,3 +7,5 @@ Type in chat
 ```
 /suicide
 ```
+
+Coded by [Karan](https://github.com/K4RAN06) and me, based on an original script released on Cfx.re community forums.
